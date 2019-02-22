@@ -12,7 +12,7 @@ int main()
 
 int kprasad(int *p,int *q)
 {
-    int temp;
+   
     for(int i=0; i<5; i++)
     {
        static int temp=0;
