@@ -10,7 +10,7 @@ int main()
     return 0;
 }
 
-int kprasad(int *p,int *q)
+int kprasad(int *p, int *q)
 {
    
     for(int i=0; i<5; i++)
