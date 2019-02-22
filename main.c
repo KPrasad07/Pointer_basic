@@ -15,6 +15,7 @@ int kprasad(int *p,int *q)
     int temp;
     for(int i=0; i<5; i++)
     {
+       static int temp=0;
        temp=*q;
        *p=*q;
        *q=temp;
